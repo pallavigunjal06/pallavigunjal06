@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m a B.Tech Student  <br>• Pursuing a degree in Computer Science / IT  <br><br>🔭 I’m currently working on  <br> Data Engineering project<br><br>•software projects  <br>•  web based project<br>• Python-based data analysis and model building<br><br>🤝 I’m looking to collaborate on  <br>•data engineering student projects  and  web development project <br>• Research-oriented mini projects  <br>• Open-source repositories<br><br>🌱 I’m currently learning  <br>• programming and new technology<br>💬 Ask me about  <br>• Machine Learning fundamentals  <br>• Python and SQL  <br>• data pipeline basics  <br>• Academic  projects
+🎓 I’m a B.Tech Student  <br>• Pursuing a degree in Computer Science / IT  <br><br>🔭 I’m currently working on  <br><br> Data Engineering project<br><br>•software projects  <br>•  web based project<br>• Python-based data analysis and model building<br><br>🤝 I’m looking to collaborate on  <br>•data engineering student projects  and  web development project <br>• Research-oriented mini projects  <br>• Open-source repositories<br><br>🌱 I’m currently learning  <br>• programming and new technology<br>💬 Ask me about  <br>• Machine Learning fundamentals  <br>• Python and SQL  <br>• data pipeline basics  <br>• Academic  projects
 
 
 ## 🌐 Socials:
